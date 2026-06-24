@@ -37,11 +37,17 @@ MIT License - vedi file LICENSE per dettagli.
 I contributi sono benvenuti! Sentiti libero di aprire issue o pull request.
 
 🙏 Ringraziamenti
+
 Qwen Team per il modello Qwen3-VL
+
 Ollama per l'inferenza locale semplificata
+
 Rhasspy/Piper per la sintesi vocale offline
+
 OpenAI/Whisper per il riconoscimento vocale
+
 Comunità WSL per il supporto audio/video su WSLg
+
 
 Buon Go! 🎮⚫
 "Il Go è l'unico gioco in cui anche dopo aver perso, hai imparato qualcosa."
